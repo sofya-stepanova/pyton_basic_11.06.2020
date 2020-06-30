@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson6" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48730fca-0bfd-4bbc-95a9-e4367150be13" name="Default Changelist" comment="hw lesson6" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sofya-stepanova &lt;soniakosvina@yandex.ru&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1dE69TbPR9gvhqVdA4KVypZxM8W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.task5">
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyton_basic_11.06.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyton_basic_11.06.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyton_basic_11.06.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyton_basic_11.06.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyton_basic_11.06.2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/task5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task5" />
+        <item itemvalue="Python.task3" />
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.task4" />
+        <item itemvalue="Python.task2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48730fca-0bfd-4bbc-95a9-e4367150be13" name="Default Changelist" comment="" />
+      <created>1591977753606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591977753606</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1591978667358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591978667358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw lesson1">
+      <created>1591979163463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591979163463</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw lesson1">
+      <created>1592070192633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592070192633</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw lesson1">
+      <created>1592079959032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592079959032</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hw lesson1">
+      <created>1592080747091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592080747091</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hw lesson2">
+      <created>1592428755148</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592428755148</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hw lesson3">
+      <created>1592941155330</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592941155330</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hw lesson3">
+      <created>1593012114152</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593012114152</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hw lesson6">
+      <created>1593552477530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593552477535</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hw lesson6">
+      <created>1593552746986</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593552746986</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hw lesson6">
+      <created>1593552758380</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593552758380</updated>
+    </task>
+    <task id="LOCAL-00012" summary="hw lesson6">
+      <created>1593552792853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593552792853</updated>
+    </task>
+    <task id="LOCAL-00013" summary="hw lesson6">
+      <created>1593553068397</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593553068397</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="lesson6" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="lesson6" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="hw lesson1" />
+    <MESSAGE value="hw lesson2" />
+    <MESSAGE value="hw lesson3" />
+    <MESSAGE value="hw lesson6" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw lesson6" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="85" key="#Inspections" timestamp="1592922757094">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="274" y="85" key="#Inspections/0.0.1280.800@0.0.1280.800" timestamp="1592922757094" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1593552738223">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593552738223" />
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1592077616463" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1593552738221">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1593552738221" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1592077616462" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1593552738221">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1593552738221" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1592077616461" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1593552738222">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593552738222" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1592077616462" />
+    <state width="1259" height="264" key="GridCell.Tab.1.bottom" timestamp="1593005013190">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="264" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593005013190" />
+    <state width="1259" height="264" key="GridCell.Tab.1.center" timestamp="1593005013189">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="264" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1593005013189" />
+    <state width="1259" height="264" key="GridCell.Tab.1.left" timestamp="1593005013188">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="264" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1593005013188" />
+    <state width="1259" height="264" key="GridCell.Tab.1.right" timestamp="1593005013190">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1593005013190" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1591978445387">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1591978445387" />
+    <state x="478" y="276" key="VCS.EditChangelistDialog" timestamp="1592080370165">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="478" y="276" key="VCS.EditChangelistDialog/0.0.1280.800@0.0.1280.800" timestamp="1592080370165" />
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2" timestamp="1593553084433">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1593553084433" />
+    <state x="240" y="124" key="Vcs.Push.Dialog.v2/0.23.1280.723@0.23.1280.723" timestamp="1591979179034" />
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593552696052">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1593552696052" />
+    <state x="665" y="240" key="git4idea.branch.GitSmartOperationDialog" timestamp="1593525335376">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="665" y="240" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.800@0.0.1280.800" timestamp="1593525335376" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1592415152038">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1592415152038" />
+  </component>
+</project>
