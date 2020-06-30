@@ -1,0 +1,27 @@
+Index: homework/task7.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import math\n\ndef func(x):\n    for i in range(x):\n        yield math.factorial(i+1)\n\nfor i in func(4):\n    print(i)\n\n\n\n\n\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- homework/task7.py	(revision 721cb9a4af600217e50838712d41a540903dae64)
++++ homework/task7.py	(date 1593107279413)
+@@ -1,14 +1,6 @@
+-import math
+-
+-def func(x):
+-    for i in range(x):
+-        yield math.factorial(i+1)
+-
+-for i in func(4):
+-    print(i)
+-
+-
++import os
+ 
+ 
+ 
+ 
++print(os.name)
+\ No newline at end of file
